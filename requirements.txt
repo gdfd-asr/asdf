@@ -1,4 +1,4 @@
 vkbottle
 asyncio
 requests
-https://github.com/timoniq/vkbottle/archive/master.zip --upgrade
+https://github.com/timoniq/vkbottle/archive/master.zip
