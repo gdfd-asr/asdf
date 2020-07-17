@@ -3,4 +3,4 @@ asyncio
 requests
 loguru
 uvloop
-pip install https://github.com/timoniq/vkbottle/archive/master.zip
+https://github.com/timoniq/vkbottle/archive/master.zip
