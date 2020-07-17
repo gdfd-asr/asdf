@@ -1,4 +1,6 @@
 vkbottle==2.7.4
 asyncio
 requests
-pip install https://github.com/timoniq/vkbottle/archive/master.zip --upgrade
+loguru
+uvloop
+pip install https://github.com/timoniq/vkbottle/archive/master.zip
