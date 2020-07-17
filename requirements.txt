@@ -1,4 +1,4 @@
-vkbottle
+vkbottle==2.7.4
 asyncio
 requests
-https://github.com/timoniq/vkbottle/archive/master.zip
+pip install https://github.com/timoniq/vkbottle/archive/master.zip --upgrade
