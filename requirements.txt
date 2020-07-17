@@ -1,6 +1,6 @@
-vkbottle==2.7.4
+
 asyncio
 requests
 loguru
 uvloop
-https://github.com/timoniq/vkbottle/archive/master.zip *
+https://github.com/timoniq/vkbottle/archive/master.zip 
