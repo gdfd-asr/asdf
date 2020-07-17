@@ -3,4 +3,4 @@ asyncio
 requests
 loguru
 uvloop
-https://github.com/timoniq/vkbottle/archive/master.zip --upgrade
+https://github.com/timoniq/vkbottle/archive/master.zip *
