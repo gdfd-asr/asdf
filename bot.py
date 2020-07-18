@@ -207,6 +207,9 @@ async def wrapper(ans: Message):
 	elif response.lower() == 'баланс 💳':
 		a,b = db.balance(user_id)
 		await ans('Баланс 💳: \nНа вашем балансе:\n{:.0f}🧿 ( ={:.0f} руб. ) \n {:.0f} 💰'.format(b,b/100,a), keyboard = kb.kb1(link))
+		
+	elif response.lower() == 'отписаться от рассылки':
+		await ans('Вы успешно отписались от рассылки!')
 
 	elif response.lower() == 'работать 🤖':
 		f,c = db.doxod(user_id)
