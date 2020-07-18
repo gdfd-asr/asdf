@@ -401,7 +401,7 @@ async def update():
 			for i in db.get_ckek():
 				await bot.api.messages.send(
 					peer_id=i[1],
-					message=f"Ваш баланс пополнен на{db.update_doxod(i[1])}🧿",
+					message=f"Ваш баланс пополнен на {db.update_doxod(i[1])}🧿",
 					random_id=bot.extension.random_id())
 
 if __name__ == '__main__':
